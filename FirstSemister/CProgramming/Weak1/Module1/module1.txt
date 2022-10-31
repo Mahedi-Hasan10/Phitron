@@ -1,0 +1,10 @@
+<<<========= why C first? ============>>>
+
+1. Beginner friendly
+2. shift to other language easily
+3. We can understand how to work a computer easily
+4. Debugging is very easy in C programming
+
+
+<<<======  How to learn programming Language ======>>>
+Practice , Practice and Practice..
